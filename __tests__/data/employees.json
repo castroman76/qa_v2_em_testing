@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Pavel Buchnevich",
+        "phone": 7343344343,
+        "email": "pavel@nyrangers.com",
+        "title": "Right Wing"
+    },
+    {
+        "name": "Mika Zibanejad",
+        "phone": 7342455674,
+        "email": "zibanejad@nyrangers.com",
+        "title": "Center"
+    },
+    {
+        "name": "Kaapo Kakko",
+        "phone": 7345567666,
+        "email": "kakko@nyrangers.com",
+        "title": "Right Wing"
+    },
+    {
+        "name": "Alexis Lafreniere",
+        "phone": 7342344433,
+        "email": "lafreniere@nyrangers.com",
+        "title": "Left Wing"
+    },
+    {
+        "name": "Artemi Panarin",
+        "phone": 7348893455,
+        "email": "panarin@nyrangers.com",
+        "title": "Left Wing"
+    }
+
+]
